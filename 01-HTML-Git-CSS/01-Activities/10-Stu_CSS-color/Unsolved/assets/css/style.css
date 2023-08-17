@@ -1,20 +1,24 @@
 .lesson {
-    width: 200px;
-    height: 100px;
-  }
-  
-.section-blue {
-
+  width: 200px;
+  height: 100px;
 }
-  
-.container {
 
+.section-blue {
+  background-color: chartreuse;
+  color: blue;
+}
+
+.container {
+  background-color: beige;
+  color: brown;
 }
 
 #section-1 {
-
+  background-color: crimson;
+  color: aquamarine;
 }
 
 #section-6 {
-
+  background-color: antiquewhite;
+  color: blueviolet;
 }

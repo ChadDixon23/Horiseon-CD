@@ -1,5 +1,5 @@
-.lesson  {
-  background-color: lemonchiffon;
+.lesson {
+  background-color: rgb(91, 66, 231);
 }
 
 #paragraph-1 {
@@ -8,11 +8,11 @@
 }
 
 #paragraph-2 {
-  color: darkslateblue;
+  color: rgb(64, 52, 141);
   background-color: darkorange;
 }
 
 #paragraph-3 {
-    color: white;
-    background-color: darkslateblue;
+  color: white;
+  background-color: darkslateblue;
 }

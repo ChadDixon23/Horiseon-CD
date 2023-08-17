@@ -47,6 +47,6 @@ section {
 }
 
 /* Sets display of all elements with class selector to inline */
-.display-none {
+/*.display-none {
   display: none;
 }

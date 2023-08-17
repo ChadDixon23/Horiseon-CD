@@ -1,12 +1,17 @@
 /* TODO: Label selector type */
-* {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  }
+/* universal selector */
+
+ {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
 
 /* TODO: Label selector type */
+/* element */
+
 body {
   background-color: lemonchiffon;
 }
+/* target 2 elements */
 
 header,
 footer {
@@ -23,11 +28,21 @@ figure {
 }
 
 /* TODO: Label selector type */
+/* class based selector */
+
 .highlighted-text {
   font-weight: bolder;
 }
 
 /* TODO: Label selector type */
+/* ID based selector */
+
 #contact-section {
   background-color: #f0ead6;
 }
+
+/*specificity Hierarchy */
+/* 1) Inline styles
+2) ID's
+3) Classes, pseudo classes, attribute selectors
+4) Elements, and psudeo elements */
